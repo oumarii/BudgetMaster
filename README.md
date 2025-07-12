@@ -1,4 +1,4 @@
-# MoneyWisee
+# BudgetMaster
 
 ## Description
 application de gestion financière personnelle qui permet aux utilisateurs de suivre leurs dépenses, gérer leurs budgets et visualiser leur situation financière à travers un tableau de bord intuitif.
